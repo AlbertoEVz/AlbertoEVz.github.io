@@ -1,4 +1,4 @@
-# 🌐 Portafolio Web - José Alberto Estrada Vázquez
+# 🌐 Portafolio Web - Jose Alberto Estrada Vazquez
 
 ¡Hola! Bienvenido a mi portafolio en línea, creado para mostrar mis proyectos y habilidades como desarrollador web.
 
