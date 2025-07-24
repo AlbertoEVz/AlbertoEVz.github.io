@@ -12,7 +12,7 @@ Soy desarrollador web con conocimientos en:
 - HTML, CSS, JavaScript
 - Bootstrap
 - PHP y MySQL
-- CRUD, LocalStorage, consumo de APIs REST
+- CRUD, LocalStorage
 - Desarrollo de sitios responsivos y funcionales
 
 Actualmente estoy en búsqueda de una oportunidad como **Desarrollador Web Jr** donde pueda seguir creciendo y aprendiendo.
@@ -21,9 +21,7 @@ Actualmente estoy en búsqueda de una oportunidad como **Desarrollador Web Jr** 
 
 | Proyecto | Tecnologías | Demo | Código |
 |---------|-------------|------|--------|
-| **API REST para BLOG** | JavaScript, LocalStorage | [🔗 Ver demo](https://albertoevz.github.io/crud-usuarios-js) | [📂 GitHub](https://github.com/AlbertoEVz/crud-usuarios-js) |
-| **API REST para Red Social** | HTML, CSS | [🔗 Ver demo](https://albertoevz.github.io/clon-netflix-html-css) | [📂 GitHub](https://github.com/AlbertoEVz/clon-netflix-html-css) |
-| **API REST para APP de Musica** | HTML, CSS | [🔗 Ver demo](https://albertoevz.github.io/clon-netflix-html-css) | [📂 GitHub](https://github.com/AlbertoEVz/clon-netflix-html-css) |
+| **Calculadora Hipotecaria** | JavaScript, CSS, HTML, Bootstrap, LocalStorage | [🔗 Ver demo](https://albertoevz.github.io/calculadora-Hipotecaria) | [📂 GitHub](https://github.com/AlbertoEVz/calculadora-Hipotecaria) |
 
 <!-- Aqui puedo agregar mas proyectos -->
 
